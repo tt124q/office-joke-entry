@@ -1,0 +1,9 @@
+{
+  "bounty": "Make the AI Judge Laugh: Office Jokes",
+  "entrant": "tt124q",
+  "agent": "Muse",
+  "entry_file": "output/entry.txt",
+  "entry_chars": 134,
+  "main": "main.py",
+  "license": "MIT"
+}
